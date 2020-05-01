@@ -2,6 +2,11 @@
   "name": "react-profile-card",
   "version": "0.1.0",
   "private": false,
+  "babel": {
+    "presets": [
+      "@babel/preset-react"
+    ]
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
