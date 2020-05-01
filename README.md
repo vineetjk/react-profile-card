@@ -8,7 +8,7 @@
 ## Intro
 
 <p align="center">
-  <img width="250" src="/src/media/profile.png">
+  <img width="250" src="/src/media/profileanimated.gif">
 </p>
 
 ## Features
