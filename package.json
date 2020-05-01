@@ -2,6 +2,34 @@
   "name": "react-profile-card",
   "version": "0.1.0",
   "private": false,
+  "main": "./dist/ProfileUi.js",
+"keywords": [
+  "react",
+  "ui",
+  "profileui",
+  "profile-card",
+  "ui-card",
+  "profile-ui-card"
+],
+"repository": {
+  "type": "git",
+  "url": "https://github.com/vineetjk/"
+},
+"author": {
+  "name": "Vineet J Karni",
+  "url": "https://github.com/vineetjk/react-profile-card"
+},
+"bugs": {
+  "url": "https://github.com/vineetjk/react-profile-card/issues"
+},
+"files": [
+  "dist/ProfileUi.js",
+  "dist/profileui.css",
+  "README.md",
+  "LICENSE",
+  "package.json"
+],
+"license": "MIT",
   "babel": {
     "presets": [
       "@babel/preset-react"
